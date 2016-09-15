@@ -1,4 +1,4 @@
-#if uninterested read bottom headers first.
+#If uninterested read headers at the bottom first.
 ##Benefit of this model:
 
 If repos can have submodules ... users can star individual parts of a repository. 
