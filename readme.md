@@ -1,3 +1,5 @@
+#Instructions 
+
 git clone https://github.com/miketestgit01/other
 
 the command used to bring create the submodule     
@@ -28,7 +30,11 @@ Notice the sub repo folders exist. but the contents of those folders are not the
 http://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules
 command 
 
+#clone to your local computer
+
 git clone --recursive git://github.com/miketestgit01/other
+
+#delete from your local computer through terminal
 
 to delete locally.
 rm -rf localdirectoryname
