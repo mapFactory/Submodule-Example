@@ -31,14 +31,14 @@ http://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules
 command 
 
 #Manipulations not requiring any work.
-##clone to your local computer
+##Clone to your local computer
 
 git clone --recursive https://github.com/miketestgit01/Submodule-Example.git
 
 note: https://github.com/miketestgit01/Submodule-Example.git
 (will not copy all files)
 
-##delete from your local computer through terminal
+##Delete from your local computer through terminal
 
 to delete locally.
 rm -rf localdirectoryname
