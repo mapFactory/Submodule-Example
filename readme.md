@@ -1,3 +1,4 @@
+#if uninterested read bottom headers first.
 ##Benefit of this model:
 
 If repos can have submodules ... users can star individual parts of a repository. 
