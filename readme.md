@@ -1,3 +1,7 @@
+##Benefit of this model:
+
+If repos can have submodules ... users can star individual parts of a repository. 
+
 ##Instructions to build a repository like this for yourself
 
 git clone https://github.com/miketestgit01/Submodule-Example
