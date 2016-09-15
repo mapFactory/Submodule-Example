@@ -1,6 +1,6 @@
 ##Instructions to build a repository like this for yourself
 
-git clone https://github.com/miketestgit01/other
+git clone https://github.com/miketestgit01/Submodule-Example
 
 the command used to bring create the submodule     
 for this repository.
@@ -18,7 +18,7 @@ git add -all
 
 git commit -m "added submodule"
 
-git remote add origin https://github.com/miketestgit01/other
+git remote add origin https://github.com/miketestgit01/Submodule-Example
 
 git push -u origin master
 
@@ -33,7 +33,8 @@ command
 #Manipulations not requiring any work.
 ##clone to your local computer
 
-git clone --recursive git://github.com/miketestgit01/other
+git clone --recursive git://github.com/miketestgit01/Submodule-Example
+note: git clone git://github.com/miketestgit01/Submodule-Example (will not copy all files)
 
 ##delete from your local computer through terminal
 
