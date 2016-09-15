@@ -1,8 +1,10 @@
 git clone https://github.com/miketestgit01/other
+
+the command used to bring create the submodule     
+for this repository.
 git submodule add https://github.com/miketestgit01/C-Programs.git
 
-is the command used to bring create the submodule 
-for this repository.
+
 
 
 then,
