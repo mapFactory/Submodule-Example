@@ -33,9 +33,9 @@ command
 #Manipulations not requiring any work.
 ##clone to your local computer
 
-git clone --recursive git://github.com/miketestgit01/Submodule-Example
+git clone --recursive https://github.com/miketestgit01/Submodule-Example.git
 
-note: git clone git://github.com/miketestgit01/Submodule-Example 
+note: https://github.com/miketestgit01/Submodule-Example.git
 (will not copy all files)
 
 ##delete from your local computer through terminal
